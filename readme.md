@@ -29,6 +29,8 @@
  - TylerMcginnis site: https://tylermcginnis.com/courses/
  - Egghead: https://egghead.io/
  - Frontend Masters: https://frontendmasters.com/
+ - codewars JS Series: https://github.com/myjinxin2015/Katas-list-of-Training-JS-series
+ - whatsdev (basic html,css, js + simple apps): https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg/playlists
 
 ## Lightning talks
 
